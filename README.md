@@ -26,7 +26,7 @@ This project aims to build a full-stack Airbnb clone with a robust backend syste
 
 ## Technology Stack
 - **Django**: Web framework for building RESTful APIs
-- **PostgreSQL**: Relational database for structured data storage
+- **MYSQL**: Relational database for structured data storage
 - **GraphQL**: Alternative API layer for efficient data querying
 - **Redis**: Caching and real-time functionality
 - **Celery**: Asynchronous task processing
